@@ -1,0 +1,2 @@
+# fungsi relasi OR error
+hist(y[y>=800|y<=300])

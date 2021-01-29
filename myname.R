@@ -1,0 +1,5 @@
+print("Saya sedang belajar bahasa peomrograman R")
+
+nama = "Willy Sianturi"
+
+print(nama)
